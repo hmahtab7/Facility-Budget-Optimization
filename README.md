@@ -17,3 +17,12 @@ _Problem 2:_ _Marketing Budget Allocation_
 Maximize customer reach from $100K marketing budget across 4 channels: Social Media, TV, Email, and Print
 
 Optimal Reach: 794,444 impressions
+
+
+**Key Takeaways**
+
+Strength training and cardio offer best space utilization for fitness facility
+
+Digital marketing channels (Social + Email) deliver superior reach efficiency
+
+Shadow price analysis provides data-driven justification for expansion investments
